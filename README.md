@@ -5,4 +5,4 @@ Having fun reading [Nintendo Adventure Books](https://www.mariowiki.com/Nintendo
 
 For a while I tried customizing features and adding new ones to the games I played. Mainly copy-pasting codeblocks from one game to another, I ended up with a few fruits of labour of my own. Those I managed to trace back, can be foubd below
 
-## 9-save-slots-per-page-unlimited
+## unlimited-save-slots-9-per-page
