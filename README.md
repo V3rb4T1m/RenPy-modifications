@@ -4,7 +4,7 @@ Having fun reading [Nintendo Adventure Books](https://www.mariowiki.com/Nintendo
 
 For a while I tried customizing features and adding new ones to the [games](https://steamdb.info/tech/Engine/RenPy/?category=-888&displayOnly=Game) I played. Mainly copy-pasting codeblocks from one game to another, I ended up with a few fruits of labour of my own. Those I managed to trace back, can be found below
 
-## Gereral 
+## General instruction
 Download `rpy`-file from [Releases]() page
 <br><br>
 Save to the `game` subfolder
