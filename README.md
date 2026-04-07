@@ -1,4 +1,4 @@
-# RenPy-modidifications
+# RenPy-modifications
 
 ## Introduction
 Having fun reading [Nintendo Adventure Books](https://www.mariowiki.com/Nintendo_Adventure_Books) as a kid, I became hooked on point & click adventures during the nineties. So when I was looking for a summer project to introduce myself to programming, I was completely over the moon when I discovered RenPy: a Python-based _visual novel_ engine.
