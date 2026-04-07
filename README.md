@@ -1,6 +1,6 @@
 # RenPy-modifications
 
-Having fun reading [Nintendo Adventure Books](https://www.mariowiki.com/Nintendo_Adventure_Books) as a kid, I became hooked on point & click adventures during the nineties. So when I was looking for a summer project to introduce myself to programming, I was completely over the moon when I discovered [RenPy](https://www.patreon.com/renpytom): a Python-based _visual novel_ engine.
+Having fun reading [Nintendo Adventure Books](https://www.mariowiki.com/Nintendo_Adventure_Books) as a child, I became hooked on point & click adventures during the nineties. So when I was looking for a summer project to introduce myself to programming, I was completely over the moon when I discovered a Python-based _visual novel_ engine called [RenPy](https://www.patreon.com/renpytom).
 
 For a while I tried customizing features and adding new ones to the [games](https://steamdb.info/tech/Engine/RenPy/?category=-888&displayOnly=Game) I played. Mainly copy-pasting codeblocks from one game to another, I ended up with a few fruits of labour of my own. Those I managed to trace back, can be found below
 
